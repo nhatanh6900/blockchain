@@ -1,0 +1,14 @@
+blockchain/
+|-- src/
+|   |-- __init__.py
+|   |-- blockchain.py
+|   |-- block.py
+|   |-- transaction.py
+|   |-- utils.py
+|   |-- main.py
+|-- tests/
+|   |-- __init__.py
+|   |-- test_blockchain.py
+|   |-- test_block.py
+|   |-- test_transaction.py
+|-- requirements.txt
